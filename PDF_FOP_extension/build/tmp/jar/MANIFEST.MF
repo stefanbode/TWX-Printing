@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Build-Date: Wed May 30 12:09:31 CEST 2018
+Built-By: Eclipse Plugin for ThingWorx Extension Development 7.2.0.201
+ 608021836
+Created-By: 1.8.0_101 (Oracle Corporation 25.101-b13)
+
+Name: PDF_FOP_extension
+Package-Version: 1.0.0
+Package-Title: PDF_FOP_extension
+Package-Vendor: 
+
